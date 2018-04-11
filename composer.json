@@ -1,0 +1,15 @@
+{
+    "name": "componentsforyii2/yunpian",
+    "description": "云片YII2组件",
+    "type": "library",
+    "require": {
+        "yunpian/yunpian-php-sdk": "^1.0"
+    },
+    "authors": [
+        {
+            "name": "Yuanshuai",
+            "email": "yuanshuai@mybns.cn"
+        }
+    ],
+    "minimum-stability": "dev"
+}
