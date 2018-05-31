@@ -1,5 +1,5 @@
 <?php 
-namespace yuanshuai\yscomponents\yunpian;
+namespace componentsforyii2\yunpian;
 /**
 * 云片发短信接口
 */
